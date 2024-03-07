@@ -4,6 +4,7 @@
   align-items: center;
 }
 .main-container aside {
+  height: 100vh;
   width: 100vh; /* Adjust the width as needed */
   box-sizing: border-box;
   background-color: #f0f0f0; /* Optional background color for better visibility */
